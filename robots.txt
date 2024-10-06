@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fnabur.github.io/WyR/sitemap.WyR.gz
